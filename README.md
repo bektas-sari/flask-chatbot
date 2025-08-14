@@ -1,6 +1,7 @@
 # 💬 Flask English Chatbot
 
-This project is a simple Flask-based English chatbot application powered by the [microsoft/DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) model. Users can type their message through a modern web interface and chat with the bot in real time.
+This project is a simple Flask-based English chatbot application powered by the [microsoft/DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) model. 
+Users can type their message through a modern web interface and chat with the bot in real time.
 
 > ⚠️ **Note:** This chatbot only works in **English**. Messages in other languages may not receive valid responses.
 
@@ -93,5 +94,6 @@ This project is a good starting point for basic chatbot applications. You can en
 
 ## Contact
 Mail: bektas.sari@gmail.com
+
 
 Enjoy chatting! 🤖
