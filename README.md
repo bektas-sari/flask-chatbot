@@ -99,9 +99,5 @@ This project is a good starting point for basic chatbot applications. You can en
 - User sessions
 - Database integration
 
-## Contact
-Mail: bektas.sari@gmail.com
 
-
-Enjoy chatting! 🤖
 
